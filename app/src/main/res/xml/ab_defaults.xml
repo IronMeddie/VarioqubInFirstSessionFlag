@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<defaults client_id="appmetrica.4026172" config_id="3200" config_version="17">
+	<entry>
+		<key>feature_alert</key>
+		<value></value>
+	</entry>
+</defaults>
